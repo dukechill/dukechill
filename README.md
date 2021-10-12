@@ -6,4 +6,4 @@
 
  <h1 align="center">LeetCode Stats</h1>
 
-[![Duke's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NoviceDuke&theme=dark)](https://github.com/NoviceDuke/leetcode-stats)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=NoviceDuke&extension=activity)
