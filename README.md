@@ -5,4 +5,4 @@
 
  <h1 align="center">LeetCode Stats</h1>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=NoviceDuke&extension=activity)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=dukechill&extension=activity)
