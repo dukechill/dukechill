@@ -1,8 +1,11 @@
+# Hello there 👋
 
-[![](https://raw.githubusercontent.com/dukechill/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/dukechill/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dukechill/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/dukechill/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dukechill/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
- <h1 align="center">LeetCode Stats</h1>
+I’m Duke, a backend engineer passionate about solving complex problems and writing clean, maintainable code. 🌈  
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=dukechill&extension=activity)
+- 🧐 Focused on **backend systems**, with a recent interest in **Golang** and **Automation**.
+- 🌱 Currently diving into **System Design**, **n8n**, and **cloud-native tools**.
+- 📚 Reading 《Designing Data-Intensive Applications》《Building Microservices》.
+- ✍️ Sharing thoughts on programming and technology at [Chill Stack](https://dukechill.github.io/chill-blog/).
+- ⛵ Exploring open source collaborations and innovative projects.
+- 🌟 Motto: *"No one is ever satisfied where he is."*
